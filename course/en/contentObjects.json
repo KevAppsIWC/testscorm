@@ -1,0 +1,219 @@
+[
+  {
+    "_id": "6916ef961c17f4e4c989e992",
+    "_type": "page",
+    "title": "<strong>Introduction</strong>",
+    "displayTitle": "<strong>Introduction</strong>",
+    "body": "<div>What do we mean by the term leadership?</div>",
+    "_classes": "background-image1",
+    "_parentId": "course",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "linkText": "View",
+    "duration": "7 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageIncompletePrompt": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e98e",
+    "_type": "page",
+    "title": "Leadership traits and behaviours",
+    "displayTitle": "Leadership traits and behaviours",
+    "body": "<div>Explore the qualities that leaders possess.</div>",
+    "_classes": "background-image4",
+    "_parentId": "course",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "linkText": "View",
+    "duration": "10 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageIncompletePrompt": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e98c",
+    "_type": "page",
+    "title": "Leadership Qualities Framework (LQF)",
+    "displayTitle": "Leadership Qualities Framework (LQF)",
+    "body": "<div>Find out&nbsp;what good leadership looks like in the social care setting.</div>",
+    "_classes": "background-image5",
+    "_parentId": "course",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "linkText": "View",
+    "duration": "12 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_menu": null,
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageIncompletePrompt": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e990",
+    "_type": "page",
+    "title": "Leading through change",
+    "displayTitle": "Leading through change",
+    "body": "<div>Discover the key areas of leadership when organisational change is needed.</div>",
+    "_classes": "background-image6",
+    "_parentId": "course",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "linkText": "View",
+    "duration": "12 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageIncompletePrompt": {
+      "_isEnabled": true
+    }
+  }
+]

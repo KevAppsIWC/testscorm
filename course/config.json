@@ -1,0 +1,129 @@
+{
+  "_id": "6916ef971c17f4e4c989eb2a",
+  "_courseId": "6916ef961c17f4e4c989e989",
+  "_completionCriteria": {
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": false,
+    "_submitOnEveryAssessmentAttempt": false,
+    "_shouldSubmitScore": false
+  },
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_accessibility": {
+    "_isEnabled": true,
+    "_isTextProcessorEnabled": true,
+    "_isSkipNavigationEnabled": true,
+    "_ariaLevels": {
+      "_menu": 1,
+      "_menuGroup": 2,
+      "_menuItem": 2,
+      "_page": 1,
+      "_article": 2,
+      "_block": 3,
+      "_component": 4,
+      "_componentItem": 5,
+      "_notify": 1
+    }
+  },
+  "_fixes": {
+    "_imgLazyLoad": true
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024,
+    "xlarge": 1280
+  },
+  "_questionWeight": 1,
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_disableAnimationFor": [],
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true,
+    "_warnFirstOnly": true
+  },
+  "_scrollingContainer": {
+    "_isEnabled": false,
+    "_limitToSelector": ""
+  },
+  "build": {
+    "strictMode": true,
+    "targets": "",
+    "includes": [
+      "5c86328ba8a5cb4b9459a49f-6916ef961c17f4e4c989e989",
+      "adapt-contrib-tutor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-pageFooterNavigation",
+      "adapt-introOutro",
+      "adapt-contrib-bookmarking",
+      "adapt-search",
+      "adapt-confirmExit",
+      "adapt-contrib-dyslexia-helper",
+      "adapt-pageIncompletePrompt",
+      "adapt-contrib-spoor",
+      "adapt-contrib-graphic",
+      "adapt-contrib-narrative",
+      "adapt-contrib-mcq",
+      "adapt-contrib-gmcq",
+      "adapt-contrib-matching",
+      "adapt-contrib-accordion",
+      "adapt-contrib-text",
+      "adapt-contrib-media",
+      "adapt-contrib-reveal",
+      "adapt-contrib-openTextInput",
+      "adapt-contrib-blank",
+      "adapt-vimeo",
+      "adapt-youtube"
+    ]
+  },
+  "__v": 1,
+  "_spoor": {
+    "_isEnabled": false,
+    "_tracking": {
+      "_shouldStoreResponses": false,
+      "_shouldStoreAttempts": false,
+      "_shouldRecordInteractions": false,
+      "_shouldCompress": false
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_scormVersion": "1.2",
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_commitOnAnyChange": false,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true,
+      "_manifestIdentifier": "adapt_manifest",
+      "_exitStateIfIncomplete": "auto",
+      "_exitStateIfComplete": "auto",
+      "_setCompletedWhenFailed": true,
+      "_maxCharLimitOverride": 0,
+      "_connectionTest": {
+        "_isEnabled": true,
+        "_testOnSetValue": true,
+        "_silentRetryLimit": 2,
+        "_silentRetryDelay": 1000
+      },
+      "_uniqueInteractionIds": false
+    },
+    "_showCookieLmsResetButton": false,
+    "_shouldPersistCookieLMSData": true
+  },
+  "_menuOriginal": "adapt-menu-boxMenu",
+  "_themeNavigationLogoPosition": "Center",
+  "_themeOriginal": "adapt-contrib-learningpool-salsa"
+}

@@ -1,0 +1,404 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "title": "Copy of Adult Social Care // What is Leadership?",
+  "displayTitle": "Copy of What is Leadership?",
+  "body": "<p>Welcome to this elearning module about <strong>leadership</strong>.</p><p>Roll over the sections below to see a summary of each, then click to enter.&nbsp;We recommend that if this is your first time viewing this module&nbsp;you start with Section 1.</p><p>This module will take approximately 45 minutes to complete.</p><p><strong>Learning Pool Adult Social Care content aligns, where appropriate, with the Core Skills Training Framework.</strong></p>",
+  "description": "",
+  "_menu": {
+    "_boxMenuCustom": {
+      "_menuInstructionText": "<b>Select the blocks below to find out more.</b>"
+    }
+  },
+  "_latestTrackingId": 66,
+  "_language": "en",
+  "_multilanguage": [],
+  "_start": {
+    "_isMenuDisabled": false,
+    "_force": false,
+    "_startIds": [],
+    "_isEnabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "_accessibilityToggleTextOn": "Turn accessibility on?",
+      "_accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "skipNavigation": "Skip navigation",
+        "home": "Home",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Open course resources and search",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closeDrawer": "Close drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading ",
+        "exit": "Exit",
+        "logoHomeButtonAltText": "",
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "close": "Close",
+        "required": "Required",
+        "optional": "Optional"
+      },
+      "altFeedbackTitle": "Feedback"
+    },
+    "_extensions": {
+      "_drawer": {
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        },
+        "_navOrder": 100
+      },
+      "_confirmExit": {
+        "confirmExitButtonLabel": "Exit Course",
+        "confirmExitTitle": "Warning",
+        "confirmExitBody": "Are you sure you want to exit and close this course?",
+        "confirmExitYes": "Yes",
+        "confirmExitNo": "No"
+      },
+      "_introOutro": {
+        "replayVideoDrawer": "Open replay intro/outro video drawer",
+        "replayIntroVideo": "Replay intro video",
+        "replayOutroVideo": "Replay outro video",
+        "outroDelayCountdown": "Video displaying in {{number}} second(s)…",
+        "outroDelayAriaLabel": "Video will play in a moment",
+        "download": "Download this video",
+        "copyLink": "Copy link",
+        "linkCopied": "Link copied!"
+      },
+      "_bookmarking": {
+        "resumeButtonText": "Resume",
+        "resumeButtonAriaLabel": "Navigate to your furthest point of progress."
+      },
+      "_tutor": {
+        "hideFeedback": "Hide feedback"
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "optionalContent": "Optional Content",
+        "_navOrder": "90",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Page progress"
+        },
+        "_showLabel": true,
+        "navLabel": "Page progress",
+        "_drawerPosition": "auto"
+      },
+      "_dyslexiaHelper": {
+        "navigationBarLabel": "Open dyslexia helper options"
+      },
+      "_navigation": {
+        "_skipButton": {
+          "_navOrder": -100
+        },
+        "_backButton": {
+          "_navOrder": 0
+        },
+        "_backNavTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        },
+        "_spacers": [
+          {
+            "_navOrder": 0
+          }
+        ]
+      },
+      "_search": {}
+    },
+    "_components": {
+      "_reveal": {
+        "ariaLabel": "Reveal toggle button."
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_gmcq": {
+        "ariaRegion": "This component is a graphical multiple choice question. Once you have selected an option select the submit button below.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_matching": {
+        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}",
+        "correctAnswerPrefix": "The correct answer is",
+        "correctAnswersPrefix": "The correct answers are"
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative.",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
+        "titleDialog": "Item {{itemNumber}} of {{totalItems}}",
+        "titleStrapline": "Find out more"
+      },
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "skipToTranscript": "Skip to transcript",
+        "playText": "Play",
+        "pauseText": "Pause",
+        "stopText": "Stop",
+        "audioPlayerText": "Audio Player",
+        "videoPlayerText": "Video Player",
+        "tracksText": "Captions/Subtitles",
+        "timeSliderText": "Time Slider",
+        "muteText": "Mute Toggle",
+        "unmuteStatusText": "Unmute",
+        "muteStatusText": "Mute",
+        "volumeSliderText": "Volume Slider",
+        "fullscreenText": "Fullscreen",
+        "goFullscreenText": "Go Fullscreen",
+        "turnOffFullscreenText": "Turn off Fullscreen",
+        "noneText": "None",
+        "skipBackText": "Skip back %1 seconds",
+        "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
+        "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+      },
+      "_vimeo": {
+        "ariaRegion": "This is a media component which displays a Vimeo video. Select the play / pause button to watch it.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_youtube": {
+        "ariaRegion": "This is a media component which displays a YouTube video. Select the play / pause button to watch it.",
+        "skipToTranscript": "Skip to transcript"
+      }
+    },
+    "_menu": {
+      "_boxMenuCustom": {
+        "ariaRegion": "Menu",
+        "durationLabel": "Duration:",
+        "menuItem": "Menu item.",
+        "menuEnd": "You have reached the end of the menu."
+      }
+    }
+  },
+  "_tooltips": {
+    "_isEnabled": true
+  },
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled at the moment",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "remaining attempts",
+    "_showFeedback": {
+      "ariaLabel": "Show feedback",
+      "buttonText": "Show feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Hide correct answer",
+      "buttonText": "Hide correct answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Show correct answer",
+      "buttonText": "Show correct answer"
+    },
+    "_reset": {
+      "ariaLabel": "Reset",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Submit",
+      "buttonText": "Submit"
+    }
+  },
+  "_classes": "",
+  "_lockType": null,
+  "metadata": {
+    "parentCourseIds": [
+      "58eb57c9cd093d557cf39b09",
+      "5ba10c5b4e56042b0766a686",
+      "66968ad2d78c1544c493f013"
+    ]
+  },
+  "_tenantId": "5c86328ba8a5cb4b9459a49f",
+  "_search": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "_matchOn": {
+      "_contentWordBeginsPhraseWord": false,
+      "_contentWordContainsPhraseWord": false,
+      "_contentWordEqualsPhraseWord": true,
+      "_phraseWordBeginsContentWord": true
+    },
+    "_previewWords": 10,
+    "_previewCharacters": 30,
+    "_showFoundWords": true,
+    "_showHighlights": true,
+    "_ignoreWords": "a,an,and,are,as,at,be,by,for,from,has,he,in,is,it,its,of,on,that,the,to,was,were,will,wish",
+    "_minimumWordLength": 2,
+    "_frequencyImportance": 5,
+    "title": "Search",
+    "description": "Enter search criteria",
+    "placeholder": "",
+    "noResultsMessage": "No results found",
+    "awaitingResultsMessage": "Formulating results..."
+  },
+  "_pageIncompletePrompt": {
+    "_isEnabled": true,
+    "title": "Page incomplete",
+    "message": "Are you sure you would like to leave?",
+    "_classes": "",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_introOutro": {
+    "_introIsEnabled": false,
+    "_introVideo_mp4": "",
+    "_introVideo_webm": "",
+    "_introVideo_ogv": "",
+    "_introVideo_ext": "https://vimeo.com/248129548",
+    "_introVideo_bc": {
+      "_brightcovePlayer": {
+        "videoId": "",
+        "account": "",
+        "player": "default",
+        "canPlayLocal": false
+      },
+      "_socialSharing": [],
+      "_canCopyLinkToVideo": false,
+      "_downloadOption": "Disabled"
+    },
+    "_introPlayFullscreen": true,
+    "_introForceViewing": false,
+    "_introTranscript": {
+      "_setCompletionOnView": false,
+      "inlineTranscript": "",
+      "transcriptLink": "",
+      "_cc": []
+    },
+    "_showReplayButtons": "no",
+    "_outroIsEnabled": false,
+    "_outroVideo_mp4": "",
+    "_outroVideo_webm": "",
+    "_outroVideo_ogv": "",
+    "_outroVideo_ext": "",
+    "_outroVideo_bc": {
+      "_brightcovePlayer": {
+        "videoId": "",
+        "account": "",
+        "player": "default",
+        "canPlayLocal": false
+      },
+      "_socialSharing": [],
+      "_canCopyLinkToVideo": false,
+      "_downloadOption": "Disabled"
+    },
+    "_outroPlayFullscreen": true,
+    "_outroDelay": 5,
+    "_outroTranscript": {
+      "_setCompletionOnView": false,
+      "inlineTranscript": "",
+      "transcriptLink": "",
+      "_cc": []
+    },
+    "_triggerOutroVideo": "course",
+    "outroVideoLearningObjectivesTrigger": [],
+    "_buttons": {
+      "_alignment": "Right",
+      "_shouldUseIconsOnDevices": true,
+      "skip": "Skip",
+      "viewTranscript": "View transcript",
+      "closeTranscript": "Close transcript",
+      "transcriptLink": "Transcript link"
+    }
+  },
+  "_pageFooterNavigation": {
+    "_isEnabled": true,
+    "_displayIcons": false,
+    "nextButtonText": "Next",
+    "prevButtonText": "Previous",
+    "homeButtonText": "Home",
+    "upButtonText": "Up",
+    "_displayOptions": "scrollToBottom",
+    "_hideHomeButton": false,
+    "_hideUpButton": false,
+    "_hidePrevButton": false,
+    "_hideNextButton": false
+  },
+  "_dyslexiaHelper": {
+    "_isEnabled": true,
+    "titleText": "Coloured Overlays",
+    "instructionsText": "Click or tap on a colour palette below to enable/disable coloured overlays for improved readability"
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "_location": "previous",
+    "_showPrompt": true,
+    "_autoRestore": true,
+    "title": "Bookmarking",
+    "body": "Would you like to continue where you left off?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_tutor": {
+    "_type": "notify",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+    }
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "title": "",
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true,
+    "_showAtCourseLevel": false,
+    "_useCourseProgressInNavigationButton": false
+  }
+}

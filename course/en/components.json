@@ -1,0 +1,4655 @@
+[
+  {
+    "_id": "6916ef971c17f4e4c989eaa1",
+    "_type": "component",
+    "_component": "graphic",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea1e",
+    "title": "What does the LQF do?",
+    "displayTitle": "",
+    "body": "<p>The National Skills Academy for Social Care Leadership Qualities Framework (LQF) sets out what good quality leadership should be for both individuals and organisations.</p><p>The LQF is a one-stop shop for developing yourself, strengthening and differentiating your organisation and providing better services.</p><p>The LQF is grounded in everyday practice and behaviours. It describes what good leadership looks like in different settings and situations and illustrates what attitudes and behaviours are needed for high-quality leadership.</p><p><strong>The seven dimensions of the Leadership Qualities Framework are shown here – let's look at each one in more detail.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "The Leadership Qualities Framework",
+      "longdescription": "",
+      "large": "course/en/assets/68e6935770665d2d4bac8e69.png",
+      "small": "course/en/assets/68e69345c5b41d324bb2b5b5.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaa3",
+    "_type": "component",
+    "_component": "narrative",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea4a",
+    "title": "Case study: Rose",
+    "displayTitle": "",
+    "body": "<p>Rose is a team manager in a busy learning disability service.</p><p><strong>Select the arrows to scroll through and read her story.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Rose is fairly new to the post. The social workers in her team have all worked together for many years.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a77c856b862f96ca494042.png",
+          "alt": "Rose speaking with a colleague",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Rose is implementing a new case management system. The system includes new tools for improving outcomes.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a77c93df66f099b55a3db2.png",
+          "alt": "Rose sitting at a computer desk",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      }
+    ]
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaa5",
+    "_type": "component",
+    "_component": "mcq",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea38",
+    "title": "Demonstrating personal qualities",
+    "displayTitle": "",
+    "body": "<p>Luke is a senior manager at Wickstafford Council. He demonstrates lots of personal qualities which make him an excellent leader, well-respected by his colleagues. What do you think some of these qualities are?</p><p><strong>Choose all answers that apply, then select Submit.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "'I know I can't properly engage others unless I know who I am and understand why I behave as I do.'",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "'Although I don't need to receive feedback, I am always constructive when giving feedback to colleagues.'",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "'I know my strengths and weaknesses and what needs work.'",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "'I am often late, which I hope no one notices because I make it clear I value punctuality in the workplace.'",
+        "_shouldBeSelected": false
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "'I always manage my workload and pace myself well.'"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Yes, that's right. The following qualities show that Luke is self-aware and knows how he feels:</p><ul><li>I know I can't properly engage others unless I know who I am and understand why I behave as I do.</li><li>I know my strengths and weaknesses and what needs work.</li><li>I always manage my workload and pace myself well.</li></ul><p>We'll look at this in more detail next.</p>",
+      "_incorrect": {
+        "final": "<p>That's not it. The following qualities show that Luke is self-aware and knows how he feels:</p><ul><li>I know I can't properly engage others unless I know who I am and understand why I behave as I do.</li><li>I know my strengths and weaknesses and what needs work.</li><li>I always manage my workload and pace myself well.</li></ul><p>We'll look at this in more detail next.</p>",
+        "notFinal": "<p>That's not it. The following qualities show that Luke is self-aware and knows how he feels:</p><ul><li>I know I can't properly engage others unless I know who I am and understand why I behave as I do.</li><li>I know my strengths and weaknesses and what needs work.</li><li>I always manage my workload and pace myself well.</li></ul><p>We'll look at this in more detail next.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>The following qualities show that Luke is self-aware and knows how he feels:</p><ul><li>I know I can't properly engage others unless I know who I am and understand why I behave as I do.</li><li>I know my strengths and weaknesses and what needs work.</li><li>I always manage my workload and pace myself well.</li></ul><p>We'll look at this in more detail next.</p>",
+        "notFinal": "<p>That's not it. The following qualities show that Luke is self-aware and knows how he feels:</p><ul><li>I know I can't properly engage others unless I know who I am and understand why I behave as I do.</li><li>I know my strengths and weaknesses and what needs work.</li><li>I always manage my workload and pace myself well.</li></ul><p>We'll look at this in more detail next.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaa7",
+    "_type": "component",
+    "_component": "gmcq",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea20",
+    "title": "Describing leadership",
+    "displayTitle": "",
+    "body": "<p>What sort of attributes do you think make&nbsp;a good leader? &nbsp;</p><p>Have a look at the statements below and decide which of them&nbsp;reflect good leadership qualities.</p><p><strong>Choose all that apply, then select Submit.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/66a0e0df8c6ee63da5aae874.png",
+          "small": "course/en/assets/66a0e0df8c6ee63da5aae874.png",
+          "alt": "A man holding a piece of paper",
+          "attribution": ""
+        },
+        "text": "Option 1 - \"I focus on the here and now. It’s important to stay in the present.\"",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/66a0e0edbc9ed2ae5de4ebb0.png",
+          "small": "course/en/assets/66a0e0edbc9ed2ae5de4ebb0.png",
+          "alt": "A woman waving",
+          "attribution": ""
+        },
+        "text": "Option 2 - \"I actively seek others to share their views with me.\"",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/66a0e1024166b5c8a434b1d6.png",
+          "small": "course/en/assets/66a0e1024166b5c8a434b1d6.png",
+          "alt": "A man smiling",
+          "attribution": ""
+        },
+        "text": "Option 3 - \"I don’t need to be closely managed. I work well on my own to get results.\"",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/66a0e11dbc9ed2ae5de4ec7b.png",
+          "small": "course/en/assets/66a0e11dbc9ed2ae5de4ec7b.png",
+          "alt": "A woman waring a hijab, smiling",
+          "attribution": ""
+        },
+        "text": "Option 4 - \"I act with integrity. If something can't be changed I say so and explain why.\"",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_isRound": false,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Yes, that's right. These statements do describe the behaviour of a good leader.</p><p>Although there is no single definition of the term leadership, it is often defined as the ability to engage with and influence people, by means of personal attributes and behaviours, to achieve a shared vision. It's also about acting with integrity, and ensuring good, clear communications.</p><p><strong>Select Close popup to continue.</strong></p>",
+      "_incorrect": {
+        "final": "<p>No, that's not right. Good leaders have vision. They don't just focus on the present situation, they forward plan and have a strategy in place to improve their service area. Leaders actively engage the staff group they work with and invite a collaborative approach to reaching the desired outcome.</p><p>Although there is no single definition of the term leadership, it is often defined as the ability to engage with and influence people, by means of personal attributes and behaviours, to achieve a shared vision. It's also about acting with integrity, and ensuring good, clear communications.</p><p><strong>Select Close popup to continue.</strong></p>",
+        "notFinal": "<p>No, that's not right. Good leaders have vision. They don't just focus on the present situation, they forward plan and have a strategy in place to improve their service area. Leaders actively engage the staff group they work with and&nbsp; invite a collaborative approach to reaching the desired outcome.</p><p>Although there is no single definition of the term leadership, it is often defined as the ability to engage with and influence people, by means of personal attributes and behaviours, to achieve a shared vision. &nbsp;It's also about acting with integrity, and ensuring good, clear communications.</p><p><strong>Select Close popup to continue.</strong></p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>No, that's not right. Good leaders have vision. They don't just focus on the present situation, they forward plan and have a strategy in place to improve their service area. Leaders actively engage the staff group they work with and invite a collaborative approach to reaching the desired outcome.</p><p>Although there is no single definition of the term leadership, it is often defined as the ability to engage with and influence people, by means of personal attributes and behaviours, to achieve a shared vision. It's also about acting with integrity, and ensuring good, clear communications.</p><p><strong>Select Close popup to continue.</strong></p>",
+        "notFinal": "<p>No, that's not right. Good leaders have vision. They don't just focus on the present situation, they forward plan and have a strategy in place to improve their service area. Leaders actively engage the staff group they work with and invite a collaborative approach to reaching the desired outcome.</p><p>Although there is no single definition of the term leadership, it is often defined as the ability to engage with and influence people, by means of personal attributes and behaviours, to achieve a shared vision. It's also about acting with integrity, and ensuring good, clear communications.</p><p><strong>Select Close popup to continue.</strong></p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaa9",
+    "_type": "component",
+    "_component": "narrative",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea22",
+    "title": "Case study: Meet Chrystal",
+    "displayTitle": "",
+    "body": "<p>This case study explores Chrystal's new role, responsibilities, and the impact she aims to make.</p><p><strong>Select the arrows to learn more about Chrystal.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Chrystal has just been promoted to service manager in the Learning Disabilities Service.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a0de1c56fbc974c70a3a25.png",
+          "alt": "Chrystal, Service Manager.",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Both Chrystal and Lynne were interviewed for the job and Chrystal was successful.</p><blockquote><p>Well done Chrystal. I hope it goes well for you.</p></blockquote>",
+        "_graphic": {
+          "src": "course/en/assets/66a0de2bbc9ed2ae5de4df41.png",
+          "alt": "Chrystal shaking hands with Lynne",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Chrystal has a clear vision for the service, which she intends to drive forward. She is passionate about ensuring that the individual is central to the work being undertaken, and that life chances and outcomes are greatly enhanced by the interventions of her team and the organisation.</p><blockquote><p>Let's get every single person the life changes they deserve.</p></blockquote>",
+        "_graphic": {
+          "src": "course/en/assets/66a0de87bc9ed2ae5de4e043.png",
+          "alt": "Chrystal sitting at a computer desk, waving",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Chrystal works hard at persuading people. She comes across as authentic, and she engenders a feeling of trust from people.</p><blockquote><p>This isn't what anyone wants. I accept it's not the ideal outcome but I need your help on this.</p></blockquote>",
+        "_graphic": {
+          "src": "course/en/assets/66a0e0028db33cbb1b47af2c.png",
+          "alt": "A group of people in a meeting",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Chrystal has excellent communication skills which she uses to fully engage others.</p><blockquote><p>Let's talk about what the problem is. I'd like to hear from everyone. Ted, kick things off please.</p></blockquote>",
+        "_graphic": {
+          "src": "course/en/assets/66a0e01f591de50dd45af33b.png",
+          "alt": "Chrystal presenting at a mic",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Karl works with Chrystal. He can see why she was successful in gaining the promotional position. Like everyone else in the team, he thinks Chrystal was subconsciously elected as a leader by the team when she was a social worker as she always had a clear vision and passion around her work. Karl thinks Chrystal is charismatic and engaging. She was the emergent leader amongst their group very early in her career.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a0e03a0b94a19414222017.png",
+          "alt": "Karl and Chrystal",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      }
+    ]
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaab",
+    "_type": "component",
+    "_component": "matching",
+    "_layout": "full",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea24",
+    "title": "The differences between leading and managing",
+    "displayTitle": "",
+    "body": "<p>Chrystal was successful in gaining the service manager position as she demonstrated in the interview that she had good leadership qualities, as well as sound management experience. The two skills are often interlinked.&nbsp;</p><p>What are the key differences between managers and leaders? Consider the statements below and decide whether you think they suggest management or leadership.</p><p><strong>Choose an option under each header and then select Submit.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_isRandomQuestionOrder": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
+    "placeholder": "Select an option",
+    "_items": [
+      {
+        "text": "I focus on systems and structure",
+        "_options": [
+          {
+            "text": "Leadership",
+            "_isCorrect": false
+          },
+          {
+            "text": "Management",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "I set the direction",
+        "_options": [
+          {
+            "text": "Leadership",
+            "_isCorrect": true
+          },
+          {
+            "text": "Management",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I ask how and when",
+        "_options": [
+          {
+            "text": "Leadership",
+            "_isCorrect": false
+          },
+          {
+            "text": "Management",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "I challenge the status quo",
+        "_options": [
+          {
+            "text": "Leadership",
+            "_isCorrect": true
+          },
+          {
+            "text": "Management",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I follow my own convictions",
+        "_options": [
+          {
+            "text": "Leadership",
+            "_isCorrect": true
+          },
+          {
+            "text": "Management",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I carry out detailed planning",
+        "_options": [
+          {
+            "text": "Leadership",
+            "_isCorrect": false
+          },
+          {
+            "text": "Management",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's right – well done. We'll look at this in more detail next.</p>",
+      "_incorrect": {
+        "final": "<p>No, that's not right. We'll look at this in more detail next.</p><p><strong>Close this window and select Model Answer for the correct answer.</strong></p>",
+        "notFinal": "<p>No, that's not right. We'll look at this in more detail next.</p><p><strong>Close this window and select Model Answer for the correct answer.</strong></p>"
+      },
+      "_partlyCorrect": {
+        "final": "<div>No, that's not right. Close this window and click or tap <strong>Model Answer</strong> for the correct answer. We'll look at this in more detail next.</div>",
+        "notFinal": "<div>No, that's not right. Close this window and click or tap <strong>Model Answer</strong> for the correct answer. We'll look at this in more detail next.</div>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaad",
+    "_type": "component",
+    "_component": "accordion",
+    "_layout": "full",
+    "_classes": "background-colour7",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea28",
+    "title": "Leadership and management",
+    "displayTitle": "",
+    "body": "<blockquote><p>'You manage things; you lead people.' (Rear Admiral Grace Murray Hopper)</p></blockquote><p><span style=\"color:hsl(0,0%,100%);\"><strong>Select each question to learn more about leadership and management.</strong></span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What's the difference?",
+        "body": "<p>As we've just seen, leadership can be viewed as setting a new direction or vision for a service that others follow, without considering in too much detail how the desired goals are going to be achieved.</p><p>A manager controls and manages resources and staff to maintain the status quo and ensure the goals set within the vision are achieved.</p><p>Management is more about organising systems of work and directing others to follow. The manager maintains systems and influences and develops social care practice.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Am I a manager or a leader?",
+        "body": "<ul><li>The manager focuses on systems and structure; the leader focuses on people.</li><li>The manager plans detail: the leader sets the direction for a service and takes it forward.</li><li>The manager relies on control; the leader inspires trust in others.</li><li>The manager manages presenting issues; the leader has a longer-term perspective.</li><li>The manager asks how and when; the leader asks what and why.</li><li>The manager is mindful of taking risks; the leader is more inclined to take informed risks.</li><li>The manager accepts the status quo and is often part of the organisational culture; the leader challenges it.</li><li>The manager often displays characteristics of being compliant and obedient; the leader is their own person, often practising in innovative ways.</li></ul><p>Successful leadership is about knowing when to lead and when to manage a situation.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaaf",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea4e",
+    "title": "Whole systems approach",
+    "displayTitle": "",
+    "body": "<p>Transformational change requires whole system approaches. This means getting the whole system –&nbsp;employees, stakeholder agencies and agency partners –&nbsp;to work together to implement the changes.</p><p>Making true transformational change requires a change to four key areas:</p><ol><li>The <strong>organisation</strong> and its vision for itself</li><li>The <strong>people</strong> who are part of that organisation</li><li>The <strong>services</strong> which the organisation delivers</li><li>The <strong>processes</strong> which are involved in the delivery of the services</li></ol>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eab1",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea2c",
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "<p>In this section, you have learned:</p><ul><li>individuals leading in social care organisations are skilled in key areas, such as crisis management, and driving a change in culture through effective communication</li><li>leadership and management are closely connected but there are key differences</li><li>a good leader adapts their style to suit the situation.</li></ul><p><strong>Select Next to move on to the next section.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eab3",
+    "_type": "component",
+    "_component": "mcq",
+    "_layout": "full",
+    "_classes": "background-colour9",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea26",
+    "title": "Karl's traits",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">In the previous section we met Chrystal's colleague Karl. He believes that he doesn't have the common traits high quality leaders possess. &nbsp;</span></p><p><span style=\"color:hsl(0,0%,0%);\">What does Karl do that illustrates he lacks those traits?</span></p><p><span style=\"color:hsl(0,0%,0%);\"><strong>Choose all answers that apply, then select Submit.</strong></span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "He doesn't have self-belief or stay true to his own convictions",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "He is highly motivated to help his team achieve the highest quality social care practice",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "He is very clear about communicating decisions",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "In situations where he needs to be creative, he often falters when trying to be solution-focused",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "He doesn't have a high level of emotional intelligence",
+        "_shouldBeSelected": true
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's right. Karl doesn't have the common traits high quality leaders possess because:</p><ul><li>he doesn't have self-belief or stay true to his own convictions</li><li>in situations where he needs to be creative, he often falters when trying to be solution focused</li><li>he doesn't have a high level of emotional intelligence.</li></ul><p>We'll look at these in more detail next.</p>",
+      "_incorrect": {
+        "final": "<p>No, that's not right. Karl doesn't have the common traits high quality leaders possess because:</p><ul><li>he doesn't have self-belief or stay true to his own convictions</li><li>in situations where he needs to be creative, he often falters when trying to be solution focused</li><li>he doesn't have a high level of emotional intelligence.</li></ul><p>We'll look at these in more detail next.</p>",
+        "notFinal": "<p>No, that's not right. Karl doesn't have the common traits high quality leaders possess because:</p><ul><li>he doesn't have self-belief or stay true to his own convictions</li><li>in situations where he needs to be creative, he often falters when trying to be solution focused</li><li>he doesn't have a high level of emotional intelligence.</li></ul><p>We'll look at these in more detail next.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>No, that's not right. Karl doesn't have the common traits high quality leaders possess because:</p><ul><li>he doesn't have self-belief or stay true to his own convictions</li><li>in situations where he needs to be creative, he often falters when trying to be solution focused</li><li>he doesn't have a high level of emotional intelligence.</li></ul><p>We'll look at these in more detail next.</p>",
+        "notFinal": "<p>No, that's not right. Karl doesn't have the common traits high quality leaders possess because:</p><ul><li>he doesn't have self-belief or stay true to his own convictions</li><li>in situations where he needs to be creative, he often falters when trying to be solution focused</li><li>he doesn't have a high level of emotional intelligence.</li></ul><p>We'll look at these in more detail next.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eab5",
+    "_type": "component",
+    "_component": "accordion",
+    "_layout": "full",
+    "_classes": "background-colour11",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea2e",
+    "title": "Leadership traits and attributes",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Karl is right –&nbsp;inspirational and effective leaders do often possess a number of common traits and attributes.</span></p><p><span style=\"color:hsl(0,0%,0%);\"><strong>Select each heading below to see what these are.&nbsp;&nbsp;</strong></span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Effective communication",
+        "body": "<p>Leaders have high levels of emotional intelligence, and strong communication and interpersonal skills.</p><p>They have an excellent understanding of human behaviour and the dynamics of groups and how to use these skills to get the most out of their teams.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Creative",
+        "body": "<p>They are creative thinkers, and know how to get the best ideas out of their teams. They are able to make sound social care practice decisions based upon evidence-based and best practice.</p><p>They are focused, clear and decisive. They have good problem-solving skills.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Motivated",
+        "body": "<p>Leaders are highly motivated. They have a willingness to achieve the highest quality social care practice.</p><p>Their sense of energy and motivation helps motivate others.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Self-aware",
+        "body": "<p>They understand how they have an impact on others.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Character",
+        "body": "<p>Good leaders retain their own personality and character. They have passion, charisma and vision.</p><p>They influence teams and services through creating a compelling vision for the future. They are adaptable and understand the range of types and methods of leadership.</p><p>They inspire commitment and empower others. They engage others.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Consistent and authentic",
+        "body": "<p>Good leaders engender a feeling of trust from people. They have a strong sense of self-belief.</p><p>They practise what they preach and lead by example.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eab7",
+    "_type": "component",
+    "_component": "media",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea30",
+    "title": "What else makes a good leader?",
+    "displayTitle": "",
+    "body": "<p><strong>Select&nbsp;Play&nbsp;to learn more about some of the other leadership attributes and traits we've briefly mentioned.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "course/en/assets/9d1ab633a002a183a3d4006da99edbfae1c40cb9.mp3",
+      "source": "",
+      "type": null,
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Select to open transcript",
+      "inlineTranscriptCloseButton": "Select to close transcript",
+      "inlineTranscriptBody": "<p><strong>Reflection and self-awareness</strong></p><p>Good leaders are reflective and self-aware. They have the personal resilience and confidence to persist when others doubt them but the humility to acknowledge that they are not always right, and turn their mistakes into learning opportunities.</p><p><strong>Judgement</strong></p><p>Part of the fundamental role of a leader in social care is to make sound judgements and manage risks effectively. This judgement should be based upon evidence, knowledge and experience. It involves being open to hearing and considering the views of others. For example, a team manager in social care needs to take into account information from the social worker, who knows the service user well and consider their assessment of risks. Leadership in this situation is about instilling confidence in others around and making robust judgements.</p><p>Good leaders are able to engage others. They use skills to engage people in a way that makes them feel part of the decision-making process. It gains their commitment to the direction the organisation is taking. This is often referred to as a psychological contract. Organisational behaviourists, Edgar Schein and Chris Argyris, conducted many studies in the 1960s, focusing on the relationship between employees and leaders in organisations. The psychological contract refers to the relationship between an employer and its employees and specifically concerns mutual expectations of inputs and outcomes.</p><p>Engagement is also about actively listening to others. This means being present when with them and completely aware of what’s happening. It means paying attention to what’s going on, rather than being caught up in your thoughts and letting your mind wander.</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eab9",
+    "_type": "component",
+    "_component": "accordion",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea64",
+    "title": "Effective communication",
+    "displayTitle": "",
+    "body": "<p>Without strong communication skills, a manager is not an effective leader.</p><p><strong>Select each heading to learn more.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "How should a leader effectively communicate?",
+        "body": "<p>Leadership communication is the controlled, purposeful transfer of information and vision by which leaders influence a single person, a group, an organisation, or a community.</p><p>Leadership communication uses the full range of communication skills and resources to create and deliver messages that guide, direct, motivate, or inspire others.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Why is good communication important?",
+        "body": "<p>Good communication skills enable, foster and create the understanding and trust necessary to encourage others to follow a leader. Without effective communication, a manager accomplishes little.</p><p>Without an excellent understanding of human behaviour, and the dynamics of groups, a leader will not be able to use these skills to get the most out of their teams.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eabb",
+    "_type": "component",
+    "_component": "narrative",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea32",
+    "title": "Emotional intelligence",
+    "displayTitle": "",
+    "body": "<p>Emotional intelligence is an important attribute for great leaders. Let's look at what it means to be emotionally intelligent.</p><p><strong>Select the arrows to scroll through and find out.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Perceiving emotions",
+        "body": "<p>Mayer &amp; Salovey, two of the leading researchers on emotional intelligence, define it as 'the ability to monitor one's own and others' feelings and emotions, to discriminate among them and to use this information to guide one's thinking and actions.'</p><p>Let’s check back with Chrystal. She is concerned about Mandy, a member of her team, who is overburdened with work.</p><blockquote><p>\"I'm finding the workload totally overwhelming.\"</p><p><strong>- Mandy</strong></p><p>\"She's really struggling.\"</p><p><strong>- Chrystal (thinking)</strong></p></blockquote>",
+        "_graphic": {
+          "src": "course/en/assets/66a11de3bc9ed2ae5de5c006.png",
+          "alt": "Two people at a desk, looking stressed",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "Understanding emotions in others",
+        "body": "<p>Chrystal knows that Mandy will come to the conclusion that she has held on to a number of cases for too long. The effect of this means that she is struggling to manage her workload. Chrystal knows Mandy struggles with 'endings' and this is causing her anguish.</p><p>Leaders need the ability to understand emotions and language and to appreciate complicated relationships among emotions, such as how they may change over time.</p><p>Leadership communication depends on the leader understanding what engages others to listen and what motivates them to act. This requires self-awareness and an increased awareness of others.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a11e438abf40b35fdd55d6.png",
+          "alt": "A person sitting at a desk with their head in their hands",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "Using emotions effectively",
+        "body": "<p>Chrystal harnesses her emotions to facilitate various cognitive activities, such as thinking and problem-solving.</p><blockquote><p>“I’m tempted to find the solution for Mandy’s situation, but I want to let her work through this herself so she can reflect upon it and learn from this problem.”</p><p><strong>- Chrystal (thinking)</strong></p></blockquote>",
+        "_graphic": {
+          "src": "course/en/assets/66a11e57591de50dd45bc66c.png",
+          "alt": "Chrystal thinking",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "Managing emotions",
+        "body": "<p>Chrystal regulates emotions in both herself and in others.</p><p>An emotionally intelligent leader can harness emotions, even negative ones, and manage them to achieve intended goals.</p><p>Without emotional intelligence, leaders cannot communicate with, and manage others, effectively.</p><blockquote><p>“He knows how to test my patience.”</p><p><strong>- Chrystal</strong></p></blockquote>",
+        "_graphic": {
+          "src": "course/en/assets/66a11ea2bc9ed2ae5de5c1a7.png",
+          "alt": "Three people at a desk, looking stressed",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      }
+    ]
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eabd",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea36",
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "<p>In this section you have learned:</p><ul><li>an effective leader has passion for their role and can inspire a common vision</li><li>interpersonal skills are fundamental to good leadership</li><li>charisma is not something people are born with; it is a skill that can be cultivated</li><li>leaders need an excellent understanding of human behaviour to get the most out of their groups</li><li>emotional intelligence enables good leaders to perceive and understand what makes others behave as they do</li><li>active listening involves being completely focused on the other person and hearing what they're saying</li><li>good leaders need to engage staff to buy into their vision and the direction they're taking.</li></ul><p><strong>Select Next to move on to the next section.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eabf",
+    "_type": "component",
+    "_component": "narrative",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea34",
+    "title": "Case study: Chrystal",
+    "displayTitle": "",
+    "body": "<p>The local authority that Chrystal works for has to review their annual spend in the area of social care. As part of this review, support services will be restructured. Some of the work will be externally commissioned and some roles will no longer exist. Chrystal has been asked to reduce one of her teams from six to four posts.</p><p><strong>Select the arrows to scroll through and see how she manages this.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Chrystal has given great thought to which posts she has to let go of. She reflects on her decision for some time, but once her mind is made up, she doesn't falter.</p><p>She is self-aware enough to know that despite believing she is making the right decision, it will be a very difficult situation and she must manage it delicately.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a3735acdcaedb7a9f76394.png",
+          "alt": "Chrystal",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Chrystal discusses her decision with senior management.</p><p>They give their opinions and she actively listens, but she still stands by her decision. She knows she has used her best judgement.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a37367c2911bcc33febf92.png",
+          "alt": "Chrystal talking to senior management",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>When Chrystal has to break news of redundancy to her staff, she is very sensitive and empathetic and as always, an excellent communicator.</p><p>She completely engages with each staff member.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a37374d012f4530f447d31.png",
+          "alt": "Chrystal talking to staff",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      }
+    ]
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eac1",
+    "_type": "component",
+    "_component": "mcq",
+    "_layout": "full",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea3c",
+    "title": "Continuing professional development",
+    "displayTitle": "",
+    "body": "<p>Continuing professional development is important to effective leaders. Which of the following statements are true about effective leaders?</p><p><strong>Choose the correct options and select Submit.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "They actively seek challenges and opportunities for self-development",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "They are reflective and act to change their practice based upon feedback",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "They actively seek opportunities to develop their knowledge and skills",
+        "_shouldBeSelected": true
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's right. Effective leaders:</p><ul><li>actively seek challenges and opportunities for self-development</li><li>are reflective and act to change their practice based on feedback</li><li>actively seek opportunities to develop their knowledge and skills.</li></ul>",
+      "_incorrect": {
+        "final": "<p>That's not it. In fact, effective leaders:</p><ul><li>actively seek challenges and opportunities for self-development</li><li>are reflective and act to change their practice based on feedback</li><li>actively seek opportunities to develop their knowledge and skills.</li></ul>",
+        "notFinal": "<p>That's not it. In fact, effective leaders:</p><ul><li>actively seek challenges and opportunities for self-development</li><li>are reflective and act to change their practice based on feedback</li><li>actively seek opportunities to develop their knowledge and skills.</li></ul>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>That's not it. In fact, effective leaders:</p><ul><li>actively seek challenges and opportunities for self-development</li><li>are reflective and act to change their practice based on feedback</li><li>actively seek opportunities to develop their knowledge and skills.</li></ul>",
+        "notFinal": "<p>That's not it. In fact, effective leaders:</p><ul><li>actively seek challenges and opportunities for self-development</li><li>are reflective and act to change their practice based on feedback</li><li>actively seek opportunities to develop their knowledge and skills.</li></ul>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eac3",
+    "_type": "component",
+    "_component": "accordion",
+    "_layout": "full",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea3a",
+    "title": "Self-awareness and managing yourself",
+    "displayTitle": "",
+    "body": "<p>Let's see what Luke has to say about how he has developed his self-awareness and how he manages himself.</p><p><strong>Select each heading below to learn more.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "I've always tried to work out what I'm feeling.",
+        "body": "<p>By being self-aware, I always know how I feel. It's important that I understand how my emotions and my actions affect the people around me.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "This isn't easy to hear but it will help me.",
+        "body": "<p>Being self-aware in a leadership position also means I have a clear picture of my strengths and areas of development. Good leaders are open to receiving feedback from others.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "I don't have to like him but I have to work with him.",
+        "body": "<p>I understand how I feel about my colleague but I also understand the important role he has in achieving our shared goals.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "We need to pull together and reach our goals. I'm 100 percent confident that we can.",
+        "body": "<p>If I want to be a good leader, I need to be reliable and committed to best practice and motivate others to aim for best practice and good outcomes for the people we support.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eac5",
+    "_type": "component",
+    "_component": "reveal",
+    "_layout": "left",
+    "_classes": "background-colour11",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea3e",
+    "title": "Acting with integrity",
+    "displayTitle": "",
+    "body": "<p>Luke's colleagues say that he acts with integrity. What do you think this means?</p><p><strong>Select the arrow to find out.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_direction": "left",
+    "control": {
+      "hideText": "Hide",
+      "showText": "Show"
+    },
+    "_isItemTitlesEnabled": false,
+    "first": {
+      "title": "",
+      "src": "course/en/assets/66a3a7cb1f68181c3a9b0c09.jpg",
+      "alt": "Luke",
+      "body": "",
+      "moreText": "More"
+    },
+    "second": {
+      "title": "",
+      "src": "course/en/assets/66a3a7e7cdcaedb7a9f7f416.png",
+      "alt": "",
+      "body": "<p><strong>Acting with integrity means:</strong></p><ul><li>upholding professional and personal ethics</li><li>valuing, respecting and promoting equality and inclusion</li><li>challenging inequalities or behaviour which isn't consistent with social care values.</li></ul>",
+      "moreText": "More"
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eac7",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "left",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea44",
+    "title": "Improving services",
+    "displayTitle": "",
+    "body": "<p>Sandra has just joined Ryworth Council at a time when they've been criticised through a recent inspection for inadequate practice. Sandra has a number of practice and service delivery improvements she needs the service to make.</p><p>This means Sandra will:</p><ul><li>effectively undertake risk assessments and systematically reduce risk</li><li>use evidence-based practice to determine where service improvements are required</li><li>monitor, track and improve outcomes</li><li>create solutions through working together with others</li><li>quality assure services</li><li>encourage innovation and creative service development</li><li>articulate the need for change and motivate the team to follow.</li></ul>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eac9",
+    "_type": "component",
+    "_component": "narrative",
+    "_layout": "full",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea40",
+    "title": "Case study: Luke",
+    "displayTitle": "",
+    "body": "<p>A key element of the Leadership Qualities Framework is managing services.</p><p><strong>Select the arrows to see how Luke effectively manages resources and achieves efficiencies through effective working arrangements.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Luke never just assumes services are working well. He routinely gathers feedback from those who use their services and from the staff teams.</p><p>He likes to take learning from others and use it to improve services or further his understanding.</p><p>This helps him appraise options regarding risks and benefits with greater confidence.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a3b08c3b46d26323c7b84a.png",
+          "alt": "A person standing beside three check boxes",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Luke has always championed his staff or any agency workers.</p><p>He tackles poor performance and rewards good-quality performance.</p><p>He tells staff he is there to provide guidance, support and direction.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a3b09e66c854b0bba75bba.png",
+          "alt": "A person standing beside an upward graph",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Luke makes it clear that everyone who works with him&nbsp;–&nbsp;staff or any agency –&nbsp;is there to deliver high-performing, safe and effective services.</p><p>Where this is not happening, he addresses any issues with individuals or agencies at the earliest opportunity.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66a3b1503b46d26323c7ba7e.png",
+          "alt": "Three arrows pointing upwards with three clogs below",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      }
+    ]
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eacb",
+    "_type": "component",
+    "_component": "accordion",
+    "_layout": "full",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea42",
+    "title": "Working together",
+    "displayTitle": "",
+    "body": "<p>Unfortunately, in the last few weeks Luke has encountered some difficulties in his personal life. He has tried to maintain a professional approach and manage his personal circumstances but it has had an impact on how he communicates with the staff.</p><p>The items below outline the impact that Luke's personal difficulties have had.</p><p><strong>Select each item to learn more.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Luke's personal difficulties have caused him to appear distracted and sharp in his responses at team meetings. ",
+        "body": "<p>Good leaders understand their important position and the impact of themselves upon others. They know to build and maintain relationships.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Yesterday Luke startled staff by inappropriately raising his voice to someone over their criticism of a project. Usually he would listen and reflect on their comments.",
+        "body": "<p>Good leaders listen to others and value different perspectives. They effectively identify and maximise opportunities for collaborative working. They manage conflict and appropriately challenge when required.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "One of the staff wanted to speak to Luke about some issues she had in her role. Luke brushed her off and said he didn't have time.",
+        "body": "<p>Good leaders communicate at all levels and instil trust in others. They understand the benefits of developing, maintaining and sustaining relationships and networks.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Yesterday Luke disappeared from his office all afternoon without telling anyone where he was going. He missed an important meeting with an individual.",
+        "body": "<p>Leaders should have a clear sense of their role, responsibilities and place within the organisation whilst respecting and valuing the roles of others. They keep&nbsp;the individual&nbsp;at the focus of their decision making and service development.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eacd",
+    "_type": "component",
+    "_component": "graphic",
+    "_layout": "right",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea44",
+    "title": "Improving services",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Sandra",
+      "longdescription": "",
+      "large": "course/en/assets/66a3b34af944d4d317f30959.jpg",
+      "small": "course/en/assets/66a3b34af944d4d317f30959.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eacf",
+    "_type": "component",
+    "_component": "accordion",
+    "_layout": "full",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea46",
+    "title": "Case study: Sandra",
+    "displayTitle": "",
+    "body": "<p>We just met Sandra, who has joined Ryworth Council to help improve services. Let's see what she needs to do to demonstrate three of the key qualities of the Leadership Qualities Framework.</p><p><strong>Select each question below to find out.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What can we do to create the change we need?",
+        "body": "<p><strong>Setting direction </strong></p><p>Sandra must demonstrate political, social, professional and organisational awareness and articulate these to the team. She must:</p><ul><li>actively seek out best practice</li><li>critically analyse the current practice</li><li>influence others to use knowledge and evidence to achieve best practice</li><li>be effective in making decisions and empowering others to do so</li><li>evaluate the service and ensure the practice is standardised and of high quality.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What does the future look like?",
+        "body": "<p><strong>Creating the vision</strong>&nbsp;</p><p>Sandra needs to create a vision which is bold, innovative and reflects core social care values. She must:</p><ul><li>actively engage others in creating the vision</li><li>be articulate and able to effectively communicate the vision to others</li><li>inspire others to work towards the vision</li><li>passionately work to achieve the vision</li><li>use personal credibility to enthuse and win over others.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What works best?",
+        "body": "<p><strong>Delivering the strategy</strong></p><p>Finally, Sandra must critically review evidence, theoretical perspectives, thinking, feedback and ideas to develop a strategy. She should:</p><ul><li>engage with the right people to develop the plans</li><li>work to ensure strategic plans are translated into workable operational plans</li><li>establish accountability for delivery</li><li>embed the strategy into day-to-day practice, then monitor and evaluate it for effectiveness.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ead1",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea5e",
+    "title": "Influence your own practice",
+    "displayTitle": "",
+    "body": "<p>Consider how the learning so far in this module will influence your practice in the future.</p><p>Do you recognise your own leadership style in the case studies described?</p><p>How do you think you could utilise the knowledge and skills gained through completing this module within your own team? How can it help you develop a vision for your service/team?</p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ead3",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea48",
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "<p>In this section you have learned:</p><ul><li>The Leadership Qualities Framework describes attitudes and behaviours required for high quality leadership in social care.</li><li>Effective social care leaders need to embody good practice and model professional social work values.</li><li>Self-regulation is important for leaders; it helps them manage their feelings and stay in control.</li><li>Leaders will participate in continuing professional development activities to refresh their practice and seek self-improvement.</li><li>When working with others, it's important for a leader to take into account the needs of others.</li><li>Effective leaders ensure resources are used effectively.</li><li>Leaders in social care should consistently display passion for their vision, demonstrated through their day-to-day actions.</li></ul><p><strong>Select Next to move on to the next section.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ead5",
+    "_type": "component",
+    "_component": "mcq",
+    "_layout": "full",
+    "_classes": "background-colour9",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea1c",
+    "title": "Transformational change",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">As one of the organisation's leaders, Rose is working towards making a transformational change.</span></p><p><span style=\"color:hsl(0,0%,0%);\">Often, a social care organisation is required to change their function and focus as a result of government drive or legislative changes, and transformational leaders need to drive this change.</span></p><p><span style=\"color:hsl(0,0%,0%);\">What statements are true about transformational change?</span></p><p><span style=\"color:hsl(0,0%,0%);\"><strong>Choose all answers that apply, then select Submit.</strong></span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Change mustn't take longer than four months",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "Change is completely divorced from pressures in external environment",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "Change is usually bold and radical",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "It brings change only to senior management",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "It brings change to teams, individuals and the organisation",
+        "_shouldBeSelected": true
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>That's right. Transformational change is usually bold and radical. It brings change to teams, individuals and the organisation.</p><p>We'll look at this more closely next.</p>",
+      "_incorrect": {
+        "final": "<p>That's not it. Transformational change is usually bold and radical. It brings change to teams, individuals and the organisation.</p><p>We'll look at this more closely next.</p>",
+        "notFinal": "<p>That's not it. Transformational change is usually bold and radical. It brings change to teams, individuals and the organisation.</p><p>We'll look at this more closely next.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>That's not it. Transformational change is usually bold and radical. It brings change to teams, individuals and the organisation.</p><p>We'll look at this more closely next.</p>",
+        "notFinal": "<p>That's not it. Transformational change is usually bold and radical. It brings change to teams, individuals and the organisation.</p><p>We'll look at this more closely next.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ead7",
+    "_type": "component",
+    "_component": "narrative",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea4c",
+    "title": "The features of transformational change",
+    "displayTitle": "",
+    "body": "<p><strong>Select the arrows to learn more about the changes that will take place in Rose's office.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Rose keeps reiterating the benefits of the new system to the staff. She tells them how necessary the developments are if they want to keep putting the individuals they support at the heart of their processes.</p><p><strong>When is transformational change used?</strong></p><p>This form of change is often used in social care when teams, or the organisation, have become stuck in how they function. This will have an impact upon performance and outcomes for individuals. Achieving this takes strong leadership with a very clear focus.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66ab73112e5b5f6cbfe8e898.png",
+          "alt": "Rose presenting a graph",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>The staff are resisting the speed at which Rose wants to implement the changes, but Rose still pushes forward.</p><p><strong>How does the change take place?</strong></p><ul><li>It's bold and radical, often responding to pressures in the external environment. &nbsp;</li><li>It happens quickly, at once, and not in stages.</li><li>It brings change to individuals, teams and organisations.</li><li>It should excite everyone. Afterwards, they can say they have a different organisation.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/66ab731e9d68deae9b0bd83b.png",
+          "alt": "A group of people sitting around a table",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' fpr more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Rose works hard to encourage the staff to be open to the idea of change. She realises that for many of them who've been with the organisation for a long time, the change is challenging, but she doesn't let up. 'Time to look forward,' she keeps telling them.</p><p><strong>What does the change involve?</strong></p><p>It involves discontinuity, a shift in assumptions and a willingness to work with complexity and an open mindset. Change management, and cultural change, are inherent parts of a successful transformation process.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66ab74102e5b5f6cbfe8eba5.png",
+          "alt": "Rose with lightbulbs above her head",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      }
+    ]
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ead9",
+    "_type": "component",
+    "_component": "openTextInput",
+    "_layout": "full",
+    "_classes": "background-colour9",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea52",
+    "title": "Using a change model",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Leaders bringing about change must ensure that employees understand why change is happening, and fully engage them in the process to improve outcomes for individuals and the organisation.</span></p><p><span style=\"color:hsl(0,0%,0%);\">The purpose of using one of the models mentioned is to be able to answer key questions about your organisation and change.&nbsp;What sort of questions do you think the change models address?&nbsp;</span></p><p><span style=\"color:hsl(0,0%,0%);\"><strong>Enter your thoughts into the space provided, then select Submit.</strong></span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_canShowModelAnswer": true,
+    "_canShowMarking": true,
+    "placeholder": "Enter your answer here",
+    "_allowedCharacters": 5000,
+    "remainingCharactersText": "Characters remaining",
+    "_recordInteraction": false,
+    "modelAnswer": "<p>The sorts of questions the change models address include:</p><ul><li>How can we understand complexity, interdependence and fragmentation of elements of the team or organisation where we work?</li><li>Why do we need to change?</li><li>Who and what can change?</li><li>How can we make change happen?</li></ul>",
+    "savedMessage": "Your anwer has been saved.",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      }
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eadb",
+    "_type": "component",
+    "_component": "accordion",
+    "_layout": "full",
+    "_classes": "background-colour9",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea50",
+    "title": "Different types of change",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Social care is an area of continuous change, therefore good leadership is required to take practitioners through this process.</span></p><p><span style=\"color:hsl(0,0%,0%);\">Change is complex, and can be in many forms.</span></p><p><span style=\"color:hsl(0,0%,0%);\"><strong>Select each type of change to learn more about it.</strong></span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Planned",
+        "body": "<p>A product of conscious reasoning and actions.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Emergent",
+        "body": "<p>Shaped by unconscious attitudes and unpredictable factors, uncertainty and chance.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Continuous",
+        "body": "<p>Adapting to – and accommodating of – problems and opportunities.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Episodic",
+        "body": "<p>An occasional, discontinuous shift in direction.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Development",
+        "body": "<p>Improving skills or existing processes.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Transitional",
+        "body": "<p>Achieving a known desired state from an existing one.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Transformational",
+        "body": "<p>Radical shift in structure, processes culture and strategy to a state which is unknown and emergent.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eadd",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea54",
+    "title": "Case study: Lucy",
+    "displayTitle": "",
+    "body": "<p>Lucy is a senior manager with responsibility for a residential care home. The previous manager was very laissez faire and the team were left to their own devices a lot of the time. There was no guidance or direction.</p><p>Lucy wants to change the culture to a more engaged organisation, with people at all levels working together. She wants to see staff connect more and start collaborating properly. Lucy knows that changing the culture in an organisation is the most difficult aspect to any change process.</p><p>Organisational culture reflects the style of the leadership and management style of the organisation. Individuals become comfortable and complacent with the prevailing organisational culture and feel challenged when aspects of culture are questioned.</p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eadf",
+    "_type": "component",
+    "_component": "narrative",
+    "_layout": "full",
+    "_classes": "background-colour10",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea56",
+    "title": "Cultural change",
+    "displayTitle": "",
+    "body": "<p>Two months after Lucy's arrival, the care home has a Care Quality Commission inspection.</p><p><strong>Select the arrows to learn more.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>In social care, the Care Quality Commission framework often challenges the culture of the organisation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66ab8b24b9443ed7ad2bad89.png",
+          "alt": "A clog",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Critical reviews of how an organisation is functioning in meeting its performance targets and core offer, and if it is improving outcomes for individuals, must take account of the culture in the organisation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66ab8b319ef49bbc87748a47.png",
+          "alt": "A clog with a bar chart",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Through the process, the leadership, management and vision of an organisation are looked at in depth.</p><p>The culture of the organisation as a whole, and sub-cultures which also exist in various teams, must be understood.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66ab8b3f2e92aac51fb8c9ca.png",
+          "alt": "Three people and a flag",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      },
+      {
+        "title": "",
+        "body": "<p>Mission, vision and values provides a framework for assessing the organisation's culture.</p><p>The management team need to answer questions such as:</p><ul><li>What are the five most important values you would like to see represented in your organisational culture?</li><li>Are these values compatible with your current organisational culture? Do they exist now? If not, why not? If they are so important, why are they not embedding these values?</li></ul><p>In answering the above questions, the future vision for the organisation can be agreed.</p>",
+        "_graphic": {
+          "src": "course/en/assets/66ab8b4c9ef49bbc87748a8a.png",
+          "alt": "Three people with an eye in the middle",
+          "attribution": ""
+        },
+        "strapline": "Tap '+' for more info"
+      }
+    ]
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eae1",
+    "_type": "component",
+    "_component": "accordion",
+    "_layout": "full",
+    "_classes": "background-colour9",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea58",
+    "title": "Coaching",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Many organisations today have identified coaching as a preferred leadership style for their management workforce.</span></p><p><span style=\"color:hsl(0,0%,0%);\"><strong>Select each heading to learn more.</strong></span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What is coaching?",
+        "body": "<p>Coaching is a powerful organisational and leadership behaviour to systemically improve business performance. The primary objective of coaching is to develop the person being coached.</p><p>'Unlocking a person's potential to maximise their own performance.&nbsp; It is helping them to learn rather than teaching them.' (Whitmore 2003)</p><p>'Coaching is directly concerned with the immediate improvement of performance and development of skills by a form of tutoring or instruction.' (Parsloe, 1995)</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "How does it work?",
+        "body": "<p>It is a way of leading that supports, champions, guides and challenges an individual to maximise their potential and performance.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "When can it be used?",
+        "body": "<p>Coaching can be applied to a wide variety of situations. It can:</p><ul><li>identify strengths and challenges</li><li>motivate</li><li>delegate</li><li>help relationship and team building</li><li>provide feedback</li><li>help social care staff become more self aware</li><li>change problematic behaviours</li><li>seize opportunities to grow and improve.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eae3",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea5a",
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "<p>In this section you have learned:</p><ul><li>Transformational change usually takes place as a result of external pressures.</li><li>Transformational change is used when an organisation is stuck in the way it performs and functions.</li><li>Change models help leaders ask key questions about the change their organisation requires.</li><li>Organisational culture grows over time and is difficult to challenge and change.</li><li>Coaching is a collaborative partnership between coach and employee, centred on achieving the desired goals.</li></ul><p>You've now come to the end of this module.</p><p><strong>To leave the module, select Exit or simply close the window.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eae5",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea1a",
+    "title": "Skills",
+    "displayTitle": "",
+    "body": "<p>All leaders in social care organisations have core skills alongside:</p><ul><li>Emotional intelligence</li><li>Active listening</li><li>Managing teams and meetings</li><li>Coaching and mentoring</li><li>The ability to engage and influence others</li></ul><p>As leaders progress into the higher levels of organisational leadership, they will need to develop capabilities illustrated in the outer circle of the diagram.</p><p>This includes being able to communicate effectively in crisis situations, or during periods of change, so they can truly lead and influence at every level of the organisation.</p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eae7",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea60",
+    "title": "Character and charisma",
+    "displayTitle": "",
+    "body": "<p>Good leaders can articulate a compelling or captivating vision. They can arouse strong emotions in followers. They have a way of speaking articulately to individuals. Good leaders have a tendency to draw people towards them.</p><p>Good leaders are charismatic. The word charisma comes from the Greek charis, meaning gift or grace. It is not so much a grace that people are born with, but more of a skill that can be cultivated by effective leaders. Likeability is one of the main characteristics of a charismatic leader.</p><p>Charismatic leaders focus on the other person, not themselves. They are verbally eloquent and able to communicate to colleagues on a deep, emotional level. They actively listen to others. Charismatic leaders are confident. The confidence is demonstrated through the way they present themselves and their self-awareness.</p><p>In order to be charismatic, you have to understand and relate to others. Individuals who've had even the briefest of encounters with a great leader come away feeling like they, rather than the leader, were the most important person in the room.</p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eae9",
+    "_type": "component",
+    "_component": "accordion",
+    "_layout": "full",
+    "_classes": "background-colour9",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea62",
+    "title": "Change management",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Change management requires effective leadership. In order to effect change, individuals must possess the qualities outlined earlier to be an inspirational leader.</span></p><p><span style=\"color:hsl(0,0%,0%);\">There are a number of well-researched and evidenced change models that can be used to bring about change within a team, or organisation.</span></p><p><span style=\"color:hsl(0,0%,0%);\"><strong>Select each heading to find out what areas of change these approaches fall within.</strong></span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Incremental changes",
+        "body": "<p>Models which are commonly used to provide incremental changes are:</p><ul><li>Kotter's 8 Step Model</li><li>Action Learning</li><li>Managing Transitions</li><li>Reflection and Critical Reflecting</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Changes in performance",
+        "body": "<p>Models which are used to create changes in performance are:</p><ul><li>Balanced Scorecard</li><li>McKinsey's 7-S framework</li><li>EFQM Excellence Model</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Build upon an existing change",
+        "body": "<p>Models which are used to build upon an existing change process are:</p><ul><li>Outcome Based Accountability</li><li>Public Service Improvement Framework</li><li>Whole Systems Working</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaeb",
+    "_type": "component",
+    "_component": "graphic",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea9e",
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "A skills wheel",
+      "longdescription": "",
+      "large": "course/en/assets/68e6926de475c1e4f29c8f19.png",
+      "small": "course/en/assets/68e692eef19f5ac583ed632d.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaed",
+    "_type": "component",
+    "_component": "mcq",
+    "_layout": "full",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea2a",
+    "title": "Chrystal's leadership style",
+    "displayTitle": "",
+    "body": "<p>Earlier, we met Karl, a colleague of Chrystal, who could see that Chrystal demonstrated strong leadership qualities. What was one element of Chrystal's style of working that made Karl realise this?</p><p><strong>Choose an answer, then select Submit.</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Chrystal is very pedantic and applies herself in the same way to all situations",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "Chrystal acts very differently depending on who she's working with, even if the situation is similar",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "Chrystal believes it's best to demonstrate the same behaviours as her manager; she doesn't think being unique is helpful to being a good leader",
+        "_shouldBeSelected": false
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Yes, that's right. Like other managers Karl has worked with who have also been excellent leaders, Chrystal adapts her engagement and communication style depending upon whom she is working with.</p><p>When Karl mentions this to Chrystal, she says leaders need to adapt their leadership qualities in different circumstances. 'Winston Churchill was a great wartime leader,' she says, 'but much less successful in peacetime.'</p><p>Some leaders will excel in managing crisis situations but perform less well when the tasks to be completed require a methodical, systematic approach.</p>",
+      "_incorrect": {
+        "final": "<p>No, that's not right. Like other managers Karl has worked with who have also been excellent leaders, Chrystal adapts her engagement and communication style depending upon whom she is working with.</p><p>When Karl mentions this to Chrystal, she says leaders need to adapt their leadership qualities in different circumstances. 'Winston Churchill was a great wartime leader,' she says, 'but much less successful in peacetime.'</p><p>Some leaders will excel in managing crisis situations but perform less well when the tasks to be completed require a methodical, systematic approach.</p>",
+        "notFinal": "<p>No, that's not right. Like other managers Karl has worked with who have also been excellent leaders, Chrystal adapts her engagement and communication style depending upon whom she is working with.</p><p>When Karl mentions this to Chrystal, she says leaders need to adapt their leadership qualities in different circumstances. 'Winston Churchill was a great wartime leader,' she says, 'but much less successful in peacetime.</p><p>'Some leaders will excel in managing crisis situations but perform less well when the tasks to be completed require a methodical, systematic approach.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>No, that's not right. Like other managers Karl has worked with who have also been excellent leaders, Chrystal adapts her engagement and communication style depending upon whom she is working with.&nbsp;&nbsp; &nbsp;</p><p>When Karl mentions this to Chrystal, she says leaders need to adapt their leadership qualities in different circumstances. 'Winston Churchill was a great wartime leader,' she says, 'but much less successful in peacetime.'</p><p>Some leaders will excel in managing crisis situations but perform less well when the tasks to be completed require a methodical, systematic approach.</p>",
+        "notFinal": "<p>No, that's not right. Like other managers Karl has worked with who have also been excellent leaders, Chrystal adapts her engagement and communication style depending upon whom she is working with.&nbsp;&nbsp; &nbsp;</p><p>When Karl mentions this to Chrystal, she says leaders need to adapt their leadership qualities in different circumstances. 'Winston Churchill was a great wartime leader,' she says, 'but much less successful in peacetime.'</p><p>Some leaders will excel in managing crisis situations but perform less well when the tasks to be completed require a methodical, systematic approach.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaef",
+    "_type": "component",
+    "_component": "reveal",
+    "_layout": "full",
+    "_classes": "background-colour11",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea5c",
+    "title": "Effective social care leaders",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Good leadership is fundamental to the delivery of excellent social care and support. It makes a significant difference to the lives of people who use services.</span></p><p><span style=\"color:hsl(0,0%,0%);\">Social care managers lead, motivate, nurture and manage a team, ensuring the service provided is effective, and delivering positive outcomes.&nbsp;</span></p><p><span style=\"color:hsl(0,0%,0%);\"><strong>Select the arrow beside the image to learn about effective social care leaders.</strong></span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_direction": "left",
+    "control": {
+      "hideText": "Hide",
+      "showText": "Show"
+    },
+    "_isItemTitlesEnabled": false,
+    "first": {
+      "title": "",
+      "src": "course/en/assets/66a398e520bfab15a500f7e7.jpg",
+      "alt": "Male professional leader in a meeting with colleagues",
+      "body": "",
+      "moreText": "More"
+    },
+    "second": {
+      "title": "",
+      "src": "course/en/assets/66a37b8cf944d4d317f25eda.png",
+      "alt": "",
+      "body": "<p>Effective social care leaders:</p><ul><li>model professional social work values</li><li>create and promote a culture of high quality practice</li><li>lead a culture of professional development in others, such as embracing research and encouraging the exploration of different cultures, concepts and ideas</li><li>lead, articulate and promote a positive social work identity</li><li>practise in an inclusive way and recognise the contribution of others</li><li>encourage critical reflection in others</li><li>lead a culture of talent identification and development.</li></ul>",
+      "moreText": "More"
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaf1",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea66",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaf3",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "right",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea68",
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<h1><strong>Introduction</strong></h1><h2>Scroll to begin</h2>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaf5",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea6a",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaf7",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea6c",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaf9",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea6e",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eafb",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea70",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eafd",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "right",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea72",
+    "title": "Leadership traits and behaviours",
+    "displayTitle": "",
+    "body": "<h1><strong>Leadership traits and behaviours</strong></h1><h2>Scroll to begin</h2>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eaff",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea74",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb01",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea76",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb03",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea78",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb05",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea7a",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb07",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea7c",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb09",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea7e",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb0b",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "right",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea80",
+    "title": "Leadership traits and behaviours",
+    "displayTitle": "",
+    "body": "<h1><strong>Leadership Qualities Framework (LQF)</strong></h1><h2>Scroll to begin</h2>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb0d",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea82",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb0f",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea84",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb11",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea86",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb13",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea88",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb15",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea8a",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb17",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea8c",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb19",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "left",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea8e",
+    "title": "Leading through change",
+    "displayTitle": "",
+    "body": "<h1><strong>Leading through change</strong></h1><h2>Scroll to begin</h2>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb1b",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea90",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb1d",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea92",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb1f",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea94",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb21",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea96",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb23",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea98",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb25",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea9a",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989eb27",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6916ef971c17f4e4c989ea9c",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

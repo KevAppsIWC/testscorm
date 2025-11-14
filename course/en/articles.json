@@ -1,0 +1,1916 @@
+[
+  {
+    "_id": "6916ef971c17f4e4c989e9e1",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9eb",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9f9",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea07",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9e3",
+    "_type": "article",
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9ed",
+    "_type": "article",
+    "title": "Leadership traits and behaviours",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9fb",
+    "_type": "article",
+    "title": "Leadership traits and behaviours",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea09",
+    "_type": "article",
+    "title": "Leading through change",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9e5",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top background-image11",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9ef",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top background-image11",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9fd",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top background-image11",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea0b",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top background-image11",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9a1",
+    "_type": "article",
+    "title": "Describing leadership",
+    "displayTitle": "Describing leadership",
+    "body": "",
+    "_classes": "no-element-backgrounds no-article-backgrounds background-colour6 background-image11",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9af",
+    "_type": "article",
+    "title": "Karl's traits",
+    "displayTitle": "Karl's traits",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour8",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9bf",
+    "_type": "article",
+    "title": "Effective social care leaders",
+    "displayTitle": "Effective social care leaders",
+    "body": "",
+    "_classes": "background-colour1 background-image11 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9cd",
+    "_type": "article",
+    "title": "Case study: Rose",
+    "displayTitle": "Case study: Rose",
+    "body": "",
+    "_classes": "background-image13 background-colour10 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e995",
+    "_type": "article",
+    "title": "What does the LQF do?",
+    "displayTitle": "What does the LQF do?",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour8 background-image10",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e999",
+    "_type": "article",
+    "title": "Transformational change",
+    "displayTitle": "Transformational change",
+    "body": "",
+    "_classes": "background-colour8 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9a3",
+    "_type": "article",
+    "title": "Case study: Meet Chrystal",
+    "displayTitle": "Case study: Meet Chrystal",
+    "body": "",
+    "_classes": "background-colour8 no-article-backgrounds no-element-backgrounds background-image12",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9f1",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e997",
+    "_type": "article",
+    "title": "Demonstrating personal qualities",
+    "displayTitle": "Demonstrating personal qualities",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour6 background-image11",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9a5",
+    "_type": "article",
+    "title": "Skills",
+    "displayTitle": "Skills",
+    "body": "",
+    "_classes": "background-colour7 no-article-backgrounds no-element-backgrounds background-image10",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9f3",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top remove-padding-bottom background-image11",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea0f",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e99f",
+    "_type": "article",
+    "title": "Self-awareness and managing yourself",
+    "displayTitle": "Self-awareness and managing yourself",
+    "body": "",
+    "_classes": "background-image10 background-colour8 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9b1",
+    "_type": "article",
+    "title": "Leadership traits and attributes",
+    "displayTitle": "Leadership traits and attributes",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour10 background-image13",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9e7",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea0d",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top background-image11",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e99b",
+    "_type": "article",
+    "title": "Continuing professional development",
+    "displayTitle": "Continuing professional development",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour7 background-image10",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9b3",
+    "_type": "article",
+    "title": "Character and charisma",
+    "displayTitle": "Character and charisma",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour8 background-image12",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9cf",
+    "_type": "article",
+    "title": "The features of transformational change",
+    "displayTitle": "The features of transformational change",
+    "body": "",
+    "_classes": "background-image13 background-colour8 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9e9",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top remove-padding-bottom background-image10",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9a7",
+    "_type": "article",
+    "title": "The differences between leading and managing",
+    "displayTitle": "The differences between leading and managing",
+    "body": "",
+    "_classes": "background-colour7 no-article-backgrounds no-element-backgrounds background-image10",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9b5",
+    "_type": "article",
+    "title": "Effective communication",
+    "displayTitle": "Effective communication",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour9 background-image11",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9c1",
+    "_type": "article",
+    "title": "Acting with integrity",
+    "displayTitle": "Acting with integrity",
+    "body": "",
+    "_classes": "background-image11 background-colour11 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9d1",
+    "_type": "article",
+    "title": "Whole systems approach",
+    "displayTitle": "Whole systems approach",
+    "body": "",
+    "_classes": "background-colour11 background-image11 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9a9",
+    "_type": "article",
+    "title": "Leadership and management",
+    "displayTitle": "Leadership and management",
+    "body": "",
+    "_classes": "background-colour11 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9b7",
+    "_type": "article",
+    "title": "Emotional intelligence",
+    "displayTitle": "Emotional intelligence",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour8 background-image13",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9c3",
+    "_type": "article",
+    "title": "Case study: Luke",
+    "displayTitle": "Case study: Luke",
+    "body": "",
+    "_classes": "background-colour8 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9d3",
+    "_type": "article",
+    "title": "Change management",
+    "displayTitle": "Change management",
+    "body": "",
+    "_classes": "background-image13 background-colour10 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9ab",
+    "_type": "article",
+    "title": "Chrystal's leadership style",
+    "displayTitle": "Chrystal's leadership style",
+    "body": "",
+    "_classes": "background-colour7 no-article-backgrounds no-element-backgrounds background-image10",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9b9",
+    "_type": "article",
+    "title": "What else makes a good leader?",
+    "displayTitle": "What else makes a good leader?",
+    "body": "",
+    "_classes": "background-colour9 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea03",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea15",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9ad",
+    "_type": "article",
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "",
+    "_classes": "background-colour8 no-article-backgrounds no-element-backgrounds background-image12",
+    "_parentId": "6916ef961c17f4e4c989e992",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9f5",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea05",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top background-image11",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea17",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top background-image11",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e99d",
+    "_type": "article",
+    "title": "Working together",
+    "displayTitle": "Working together",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour7 background-image10",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9d5",
+    "_type": "article",
+    "title": "Using a change model",
+    "displayTitle": "Using a change model",
+    "body": "",
+    "_classes": "background-colour8 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9f7",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top remove-padding-bottom background-image11",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9bb",
+    "_type": "article",
+    "title": "Case study: Chrystal",
+    "displayTitle": "Case study: Chrystal",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour8 background-image12",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9c5",
+    "_type": "article",
+    "title": "Improving services",
+    "displayTitle": "Improving services",
+    "body": "",
+    "_classes": "background-colour11 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9d9",
+    "_type": "article",
+    "title": "Different types of change",
+    "displayTitle": "Different types of change",
+    "body": "",
+    "_classes": "background-image13 background-colour10 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef961c17f4e4c989e9bd",
+    "_type": "article",
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour10 background-image13",
+    "_parentId": "6916ef961c17f4e4c989e98e",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9c7",
+    "_type": "article",
+    "title": "Case study: Sandra",
+    "displayTitle": "Case study: Sandra",
+    "body": "",
+    "_classes": "background-colour7 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9d7",
+    "_type": "article",
+    "title": "Case study: Lucy",
+    "displayTitle": "Case study: Lucy",
+    "body": "",
+    "_classes": "background-colour11 background-image11 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9db",
+    "_type": "article",
+    "title": "Cultural change",
+    "displayTitle": "Cultural change",
+    "body": "",
+    "_classes": "background-colour8 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9ff",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea01",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top background-image11",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea11",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-top",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9c9",
+    "_type": "article",
+    "title": "Influence your own practice",
+    "displayTitle": "Influence your own practice",
+    "body": "",
+    "_classes": "background-colour7 background-image10 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989ea13",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-padding-bottom remove-padding-top background-image11",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9cb",
+    "_type": "article",
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "",
+    "_classes": "no-article-backgrounds no-element-backgrounds background-colour8 background-image10",
+    "_parentId": "6916ef961c17f4e4c989e98c",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9dd",
+    "_type": "article",
+    "title": "Coaching",
+    "displayTitle": "Coaching",
+    "body": "",
+    "_classes": "background-image13 background-colour10 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  },
+  {
+    "_id": "6916ef971c17f4e4c989e9df",
+    "_type": "article",
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "",
+    "_classes": "background-colour8 background-image13 no-element-backgrounds no-article-backgrounds",
+    "_parentId": "6916ef961c17f4e4c989e990",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    }
+  }
+]
